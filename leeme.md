@@ -1,5 +1,5 @@
 ## grafica sencilla
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## personalizar grafica
 ![alt text](image.png)
